@@ -1,6 +1,6 @@
 # Spring Annotations Quick Notes
 
-This file summarizes the annotations and configuration used during the Spring Fundamentals tasks, along with placeholders for screenshots where relevant.
+This file summarizes the annotations and configuration used during the Spring Fundamentals tasks.
 
 ---
 
