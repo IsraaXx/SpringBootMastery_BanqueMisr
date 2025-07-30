@@ -90,12 +90,11 @@ public class SpringbootFundamentalsApplication { }
 
 - `exclude = { ... }` prevents specific auto-configurations.
 
-![Console H2 exculded](H2 Excluded.png)
+![Console H2 exculded](H2-Excluded.png)
 
 ---
 
----
-![Console H2 Icluded](H2 Included.png)
+![Console H2 Icluded](H2-Included.png)
 ---
 
 ## 5. Profiles & Config Binding
