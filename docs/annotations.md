@@ -89,11 +89,18 @@ public class SpringbootFundamentalsApplication { }
   - `@ComponentScan`
 
 - `exclude = { ... }` prevents specific auto-configurations.
-- ` Console H2 exculded
+  
+### Output:
+
+> Console H2 exculded
+
 ![Console H2 exculded](H2-Excluded.png)
 
 ---
-- ` Console H2 included
+### Output:
+
+> Console H2 included
+
 ![Console H2 Included](H2-Included.png)
 ---
 
